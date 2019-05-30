@@ -1,0 +1,7 @@
+com\poc\serenity\Runner\Runner1.class
+com\serenity\resAssured\TestRestAPI.class
+com\poc\serenity\Runner\pages\AnalyticsDashboardPage.class
+com\poc\serenity\Runner\steps\serenity\AnalyticsSteps.class
+com\poc\serenity\Runner\steps\AnayticsToolStepsDef.class
+com\serenity\resAssured\TestRestStepDef.class
+com\customchromedriver\capabilities\CustomChromeDriverCapabilities.class
